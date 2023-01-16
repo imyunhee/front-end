@@ -1,0 +1,13 @@
+/*ch02-2 css예시*/
+body {
+    margin: 24px;
+}
+
+div {
+    display: inline-block;
+    padding: 12px 32px 24px 32px;
+    border: 2px solid #b6d4fe;
+    background-color: #cfe2ff;
+    border-radius: 12px;
+    text-align: center;
+}
